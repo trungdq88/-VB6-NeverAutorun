@@ -1,4 +1,4 @@
--VB6-NeverAutorun
+-VB6-NeverAutorun (09 Aug 2009)
 =================
 
 See my article about this project: http://dinhquangtrung.net/blog/some-softwares-i-made
