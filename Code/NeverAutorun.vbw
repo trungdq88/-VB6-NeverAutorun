@@ -1,0 +1,13 @@
+frmMain = 44, 58, 608, 514, , 22, 29, 710, 653, C
+modRegistry = 0, 0, 0, 0, C
+basRegClean = 0, 0, 0, 0, C
+basMain = 110, 145, 674, 601, 
+frmMenu = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+XaX = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+modCauHinh = 0, 0, 0, 0, C
+frmHoiYKien = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmThongBao = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+basMD5 = 0, 0, 0, 0, C
+CMouse = 0, 0, 0, 0, C
+frmAlert = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+modSound = 0, 0, 0, 0, C
